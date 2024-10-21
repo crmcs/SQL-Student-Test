@@ -139,3 +139,4 @@ c:\Users\joseg\vs code repo\Git\SQLStudents\SQL-Student-Test\obj\Debug\net8.0\re
 c:\Users\joseg\vs code repo\Git\SQLStudents\SQL-Student-Test\obj\Debug\net8.0\SQLstudent.pdb
 c:\Users\joseg\vs code repo\Git\SQLStudents\SQL-Student-Test\obj\Debug\net8.0\SQLstudent.genruntimeconfig.cache
 c:\Users\joseg\vs code repo\Git\SQLStudents\SQL-Student-Test\obj\Debug\net8.0\ref\SQLstudent.dll
+c:\Users\joseg\vs code repo\Git\SQLStudents\SQL-Student-Test\obj\Debug\net8.0\SQLstudent.sourcelink.json
